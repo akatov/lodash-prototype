@@ -1,5 +1,9 @@
 # lodash-prototype
 
+[![Dependency Status](https://gemnasium.com/akatov/lodash-prototype.png)](https://gemnasium.com/akatov/lodash-prototype)
+[![NPM version](https://badge.fury.io/js/lodash-prototype.png)](http://badge.fury.io/js/lodash-prototype)
+
+
 Use lodash functions directly on the objects.
 
 ## Usage
