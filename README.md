@@ -2,7 +2,7 @@
 
 [![Dependency Status](https://gemnasium.com/akatov/lodash-prototype.png)](https://gemnasium.com/akatov/lodash-prototype)
 [![NPM version](https://badge.fury.io/js/lodash-prototype.png)](http://badge.fury.io/js/lodash-prototype)
-
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/akatov/lodash-prototype/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Use lodash functions directly on the objects.
 
